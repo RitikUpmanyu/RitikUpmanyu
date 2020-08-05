@@ -47,7 +47,7 @@
     <img align="left" alt="RitikUpmanyu's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikUpmanyu&layout=compact&show_icons=true&theme=radical&hide_border=true" />
 </a>
 
-[gamil]: ritikup008@gmail.com
+[gmail]: ritikup008@gmail.com
 [Astro]: https://ritikupmanyu.github.io/AstroWebsiteLandingPage/LandingPageAstro
 [facebook]: https://www.facebook.com/ritik.upmanyu/
 [twitter]: https://twitter.com/ritikup/
