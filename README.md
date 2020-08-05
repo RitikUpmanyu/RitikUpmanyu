@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" href="mailto:ritikup008@gmail.com?subject=Mail from GitHub's ReadMe" alt="RitikUpmanyu | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />[gmail]
+[<img align="left" alt="RitikUpmanyu | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />[gmail]
 [<img align="left" alt="RitikUpmanyu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="RitikUpmanyu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="RitikUpmanyu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
