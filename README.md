@@ -7,8 +7,9 @@
 - ⚡ Fun fact: I love to draw and observe sky as an amateur Astronomer.
 
 ### Connect with me:
-
-[<img align="left" alt="RitikUpmanyu | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+<a href="mailto:ritikup008@gmail.com?subject=Mail from GitHub's ReadMe">
+    <img align="left" alt="RitikUpmanyu | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a> 
 [<img align="left" alt="RitikUpmanyu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="RitikUpmanyu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="RitikUpmanyu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -47,7 +48,6 @@
     <img align="left" alt="RitikUpmanyu's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikUpmanyu&layout=compact&show_icons=true&theme=radical&hide_border=true" />
 </a>
 
-[gmail]: mailto:ritikup008@gmail.com
 [Astro]: https://ritikupmanyu.github.io/AstroWebsiteLandingPage/LandingPageAstro
 [facebook]: https://www.facebook.com/ritik.upmanyu/
 [twitter]: https://twitter.com/ritikup/
