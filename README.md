@@ -3,7 +3,7 @@
 ## I'm an Engineering Student and Developer!
 - 🔭 I’m currently working on a [Astro Club's Website][Astro]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and observe sky as an amateur Astronomer.
 
 ### Connect with me:
